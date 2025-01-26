@@ -1,4 +1,4 @@
-[watch and earn] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our app, [App Name] ("the App"), which allows you to watch ads in exchange for rewards.
+Watch To Earn is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our app, flavor prize which allows you to watch ads in exchange for rewards.
 
 By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -32,4 +32,4 @@ Our App is not intended for children under the age of 13. We do not knowingly co
 We may update this Privacy Policy from time to time. Any changes will be posted in the App, and the updated Privacy Policy will be effective as of the date of posting. Please review this Privacy Policy periodically to stay informed about how we are protecting your information.
 
 8. Contact Us
-If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us at [flavorskeem@gmail.com].
+If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us at flavorskeem@gmail.com.
